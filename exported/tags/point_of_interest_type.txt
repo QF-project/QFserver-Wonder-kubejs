@@ -1,0 +1,5 @@
+To refresh this file, delete it and run /reload command again! Last updated: May 28, 2023, 3:16:33 PM
+
+#minecraft:acquirable_job_site
+- beautify:botanist_workbench_poi
+- vinery:winemaker_poi

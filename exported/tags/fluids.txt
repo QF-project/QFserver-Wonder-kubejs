@@ -1,0 +1,45 @@
+To refresh this file, delete it and run /reload command again! Last updated: May 28, 2023, 3:16:33 PM
+
+#hamncheese:maple_sap
+- hamncheese:maple_sap
+- hamncheese:maple_sap_flowing
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- milk:flowing_milk?
+- milk:still_milk?
+- sandwichable:pickle_brine
+- sandwichable:pickle_brine_flowing
+
+#hamncheese:goat_milk
+- hamncheese:goat_milk
+- hamncheese:goat_milk_flowing
+
+#forge:milk
+- #hamncheese:milk
+- #hamncheese:goat_milk
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch
+- decorative_blocks:flowing_thatch
+
+#c:milk
+- #hamncheese:milk
+- #hamncheese:goat_milk
+- milk:flowing_milk?
+- milk:still_milk?
+
+#c:water
+- #minecraft:water?
+
+#hamncheese:milk
+- hamncheese:milk
+- hamncheese:milk_flowing
+
+#c:lava
+- #minecraft:lava?
